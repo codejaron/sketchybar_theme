@@ -31,8 +31,10 @@ apple_activity=(
 apple_lock=(
   icon=$LOCK
   label="Lock Screen"
-  click_script="pmset displaysleepnow; $POPUP_OFF"
+  click_script="osascript -e 'tell application \"System Events\" to keystroke \"q\" using {control down, command down}'; $POPUP_OFF"
 )
+
+
 
 sketchybar --add item apple.logo left                  \
            --set apple.logo "${apple_logo[@]}"         \
