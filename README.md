@@ -25,3 +25,5 @@
 ![](https://cdn.jsdelivr.net/gh/codejaron/auto-image/obsidian/CleanShot%202024-06-10%20at%2013.24.24@2x.png)
 
 ![](https://cdn.jsdelivr.net/gh/codejaron/auto-image/obsidian/CleanShot%202024-06-10%20at%2013.26.14@2x.png)
+**如何配置**
+将我github中的文件复制到`/Users/你的用户名/.config/sketchybar`路径内即可
