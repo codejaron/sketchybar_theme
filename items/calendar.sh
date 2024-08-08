@@ -8,7 +8,7 @@ calendar=(
   label.align=right
   padding_left=5
   padding_right=20
-  update_freq=30
+  update_freq=1
   script="$PLUGIN_DIR/calendar.sh"
   click_script="$PLUGIN_DIR/zen.sh"
 )

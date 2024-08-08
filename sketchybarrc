@@ -89,7 +89,7 @@ source "$ITEM_DIR/wechat.sh"
 #            --set "iStat Menus Status,com.bjango.istatmenus.combined" update_freq=2
 #source "$ITEM_DIR/istat.sh"   
 
-
+source "$ITEM_DIR/mail.sh"
 
 
 
