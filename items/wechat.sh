@@ -1,7 +1,7 @@
 #!/bin/bash
 
 wechat=(
-	update_freq=2
+	update_freq=1
 	icon=$WECHAT
 	icon.font="$FONT:Regular:20.0"
 	icon.padding_left=0

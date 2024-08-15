@@ -1,7 +1,7 @@
 #!/bin/bash
 
 mail=(
-  update_freq=300
+  update_freq=1
 	icon=􀍖
 	#icon.font="$FONT:Regular:20.0"
 	icon.padding_left=0
