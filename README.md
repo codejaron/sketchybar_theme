@@ -8,23 +8,23 @@
 目前菜单栏的功能：最左侧的苹果图标点击后可显示如下三个选项，第一个是打开系统设置，第二个是打开活动监视器，第三个是锁屏（脚本是通过运行快捷键`Control + Command + Q`，请注意自己电脑锁屏快捷键是否为当前这个）
 
 
-![](https://cdn.jsdelivr.net/gh/codejaron/auto-image/obsidian/CleanShot%202024-06-10%20at%2013.07.20@2x.png)
+![](https://cdn.jsdelivr.net/gh/codejaron/image/obsidian/CleanShot%202024-06-10%20at%2013.07.20@2x.png)
 
 左侧菜单栏还有桌面显示，如下图，我现在第一个桌面有vscode、访达和iterm，第二个桌面有arc浏览器
 
-![](https://cdn.jsdelivr.net/gh/codejaron/auto-image/obsidian/CleanShot%202024-06-10%20at%2012.45.36@2x.png)
+![](https://cdn.jsdelivr.net/gh/codejaron/image/obsidian/CleanShot%202024-06-10%20at%2012.45.36@2x.png)
 
 右侧菜单栏从左到右依次为Spotify控制器、网络监视、内存监视、CPU监视，微信消息数、QQ消息数、电池、WI-FI、日期
 
-![](https://cdn.jsdelivr.net/gh/codejaron/auto-image/obsidian/CleanShot%202024-06-10%20at%2012.52.24@2x.png)
+![](https://cdn.jsdelivr.net/gh/codejaron/image/obsidian/CleanShot%202024-06-10%20at%2012.52.24@2x.png)
 
 点击最右侧的日期还可隐藏电池、WI-FI、日期的年月日，点击Wi-Fi还可展示当前私有IP地址
 
 
 
-![](https://cdn.jsdelivr.net/gh/codejaron/auto-image/obsidian/CleanShot%202024-06-10%20at%2013.24.24@2x.png)
+![](https://cdn.jsdelivr.net/gh/codejaron/image/obsidian/CleanShot%202024-06-10%20at%2013.24.24@2x.png)
 
-![](https://cdn.jsdelivr.net/gh/codejaron/auto-image/obsidian/CleanShot%202024-06-10%20at%2013.26.14@2x.png)
+![](https://cdn.jsdelivr.net/gh/codejaron/image/obsidian/CleanShot%202024-06-10%20at%2013.26.14@2x.png)
 
 **如何配置**
 将我github中的文件复制到`/Users/你的用户名/.config/sketchybar`路径内即可
